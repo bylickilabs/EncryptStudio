@@ -1,4 +1,4 @@
-# Encrypt Studio v1.0.0  
+### Encrypt Studio v1.0.0  
 **BYLICKILABS – Intelligence Systems & Communications**  
 
 | <img width="1280" height="640" alt="EncryptStudio v1 0 0" src="https://github.com/user-attachments/assets/2a88d918-3aa5-4eec-b39a-e38cbfa4a29e" /> |
